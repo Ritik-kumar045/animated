@@ -46,7 +46,7 @@ export default function page() {
                 <CardItem
                   translateZ={20}
                   as="a"
-                  href={course.link}
+                  href={""}
                   target="_blank"
                   className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
                 >
